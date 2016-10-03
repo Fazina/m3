@@ -1,0 +1,36 @@
+
+#header-nav {
+  background-color: #dddddd;
+  border-radius: 0;
+  border: 0;
+}
+
+
+.nav-list span {
+  padding-top: 445px;
+  margin-bottom: 5px;
+}
+
+
+section {
+  background-color: #aaaadd;
+  padding: 10px;
+}
+
+.navbar-brand {
+  padding-top: 0px;
+  height: 80px;
+}
+hr {
+  margin: 5px;
+}
+
+@media (max-width: 767px) {
+  #collapsable-nav {
+    background-color: #ddaaaa;
+  }
+  section {
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+}
